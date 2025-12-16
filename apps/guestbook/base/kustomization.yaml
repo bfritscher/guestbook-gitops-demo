@@ -15,4 +15,4 @@ resources:
 images:
   - name: guestbook
     newName: ghcr.io/bfritscher/guestbook-gitops-demo
-    newTag: main-592eacc
+    newTag: main-c08881f
