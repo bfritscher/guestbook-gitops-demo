@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/your-username/guestbook-gitops
+    repoURL: https://github.com/bfritscher/guestbook-gitops-demo
     targetRevision: HEAD
     path: argocd
   destination:
